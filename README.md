@@ -55,7 +55,7 @@
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://instagram.com/zhangjing1024798?igshid=ZDc4ODBmNjlmNQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:andrej.zhangjing1024798@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="javascript:alert('zhangjing1024798@gmail.com')" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 <div align="center">
