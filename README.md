@@ -78,10 +78,7 @@
      },
      "geometry": {
        "type": "Polygon",
-       "coordinates": [
-             139.76,
-             35.67
-       ]
+       "coordinates": [35.67,139.76]
      }
    }
  ]
