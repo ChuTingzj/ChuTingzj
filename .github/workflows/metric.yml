@@ -15,7 +15,8 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: ChuTingzj
-          config_timezone: Europe/Minsk
+          filename: metrics.svg
+          config_timezone: Chinese/Shanghai
 #          config_display: columns  # отображать информацию по колонкам
           committer_message: "chore: update metrics"
           template: classic
