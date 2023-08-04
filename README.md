@@ -47,10 +47,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChuTingzj"></img>
 
 <!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](/profile-3d-contrib/profile-green-animate.svg)
 
 <!--  2d history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ChuTingzj" width="auto"></img>
+
+<img src="/metrics.svg" alt="Metrics" width="100%">
 
 **📫 How to Reach me:**
 <p align="left">
