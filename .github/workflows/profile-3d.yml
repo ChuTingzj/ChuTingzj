@@ -19,6 +19,7 @@ jobs:
         run: |
           git config user.name zhangjing
           git config user.email zhangjing1024798@github.com
+          git pull
           git add -A .
           git commit -m "generated"
-          git push -u origin "profile-3d"
+          git push
