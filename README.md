@@ -76,7 +76,7 @@
     <img src="assets/gmail.svg" alt="Gmail" height="32" width="32" />
   </a>
   <a href="https://www.instagram.com/zhangjing1024798" target="_blank">
-    <img src="assets/twitter.svg" alt="Instagram" height="32" width="32" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/ChuTingzj" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
