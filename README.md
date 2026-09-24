@@ -48,16 +48,12 @@ Shipping under **[FFP Tech Lab](https://github.com/FFP-Tech-Lab)**.
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=ChuTingzj&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" height="165" alt="Zhang Jing GitHub stats" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=ChuTingzj&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&custom_title=Zhang%20Jing" height="165" alt="Zhang Jing GitHub stats" />
   <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=ChuTingzj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ChuTingzj&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChuTingzj&label=Profile%20views&color=36BCF7&style=flat-square" alt="Profile views" />
 </p>
 
 ## Contact
