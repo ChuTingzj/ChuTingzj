@@ -11,10 +11,6 @@
 <h1 align="center">Zhang Jing</h1>
 
 <p align="center">
-  上海全栈 · 把自然语言变成可信的 SQL 和图表
-</p>
-
-<p align="center">
   Full-stack engineer in Shanghai. Currently building <strong>DataMind</strong> — natural language to SQL and charts — and the sandbox that keeps that execution inside hard limits.
 </p>
 
