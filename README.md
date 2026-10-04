@@ -39,8 +39,6 @@ Shipping under **[FFP Tech Lab](https://github.com/FFP-Tech-Lab)**.
 
 **Stack** — TypeScript · NestJS · Next.js · PostgreSQL / MySQL · Docker · LangGraph-style agents · pnpm / turbo
 
-**Also** — [Blog](https://new-blog-sooty.vercel.app/fe/introduction) · earlier [tabs-master](https://github.com/ChuTingzj/tabs-master) · [new-blog](https://github.com/ChuTingzj/new-blog)
-
 ## Activity
 
 <p align="center">
